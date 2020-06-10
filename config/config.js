@@ -39,7 +39,7 @@ var config = {
     	module: "MMM-BurnIn",
     	position: "bottom_bar", // whatever, doesn't render anything
     		config: {
-      			 updateInterval: 15 // in Minutes
+      			 updateInterval: 1 // in Minutes
     		}
 		},
 
