@@ -36,6 +36,14 @@ var config = {
 
 	modules: [
 		{
+    	module: "MMM-BurnIn",
+    	position: "bottom_bar", // whatever, doesn't render anything
+    		config: {
+      			 updateInterval: 15 // in Minutes
+    		}
+		},
+
+		{
 			module: "alert",
 		},
 		{
